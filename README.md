@@ -12,7 +12,7 @@ A mapping software written in C++ utilizing EZGL Graphics library, GTK++ glade a
 ![Screen Shot 2021-05-12 at 9 10 54 PM](https://user-images.githubusercontent.com/77854386/118063685-9358b600-b367-11eb-98e1-4e8d4b60a730.png)
 
 # Key funtionalities
-- Basis map funtionalities (Display streets & names, point of interests, features.. etc)
+- Basic map funtionalities (Display streets & names, point of interests, features.. etc)
 - Support big cities of multiple countries
 - Multi-language support
 - Show the fastest route from point A to B
