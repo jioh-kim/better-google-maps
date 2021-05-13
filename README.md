@@ -25,7 +25,7 @@ A mapping software written in C++ utilizing EZGL Graphics library, GTK++ glade a
 # Screenshots
 - **Direction output**
 
-![travel direction output](https://user-images.githubusercontent.com/77854386/118067636-f3068f80-b36e-11eb-80d1-90a03bb01115.png)![Screen Shot 2021-05-12 at 10 12 25 PM](https://user-images.githubusercontent.com/77854386/118067743-2812e200-b36f-11eb-8069-9c35c6ed48f0.png)
+![travel direction output](https://user-images.githubusercontent.com/77854386/118067636-f3068f80-b36e-11eb-80d1-90a03bb01115.png)
 
 
 - **Autocomplete**
