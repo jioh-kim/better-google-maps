@@ -4,7 +4,6 @@
 A mapping software written in C++ utilizing EZGL Graphics library, GTK++ glade and OSM (OpenStreetMap) database API.
 
 - **Note:** Source code cannot be provided as this project was made as a part of ECE297 course at the University of Toronto. 
-- **Final grade:** 92%, 4.0
 - **Collarborators:** Asma Surti (https://github.com/asmasurti) and Kartikey Sachdeva (https://github.com/lilkarti)
 
 # Logistical Highlights
