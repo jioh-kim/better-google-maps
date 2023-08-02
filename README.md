@@ -34,7 +34,7 @@ A mapping software written in C++ utilizing EZGL Graphics library, GTK++ glade a
 
 Dark Mode                                               | Colourblind Mode
 :------------------------------------------------------:|:---------------------------------:
-![darkmode](https://user-images.githubusercontent.com/77854386/118067414-812e4600-b36e-11eb-9714-4daffbcb28b0.png) | ![colourblindMode](https://github.com/jioh-kim/better-google-maps/assets/77854386/2b5ee273-1c8a-4aa0-b776-8f05a43b7136)
+![darkMode](https://github.com/jioh-kim/better-google-maps/assets/77854386/09d4c56a-a367-42e5-b242-6ad9e836dc33) | ![colourblindMode](https://github.com/jioh-kim/better-google-maps/assets/77854386/2b5ee273-1c8a-4aa0-b776-8f05a43b7136)
 
 - **Help menu**
 
